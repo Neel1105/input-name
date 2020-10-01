@@ -13,4 +13,4 @@ int main()
   return 0;
 }
   
-BYE BYE
+BYE BYE FRIENDS
